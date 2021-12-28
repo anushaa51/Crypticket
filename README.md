@@ -10,7 +10,7 @@
 
 ## 
 
-<h4 align="center"><a href="https://anushaa51.github.io/Crypticket">anushab05.github.io/Crypticket</a></h4>
+<h4 align="center"><a href="https://anushaa51.github.io/Crypticket">anushaa51.github.io/Crypticket</a></h4>
 
 ## Incentive
 In an age where privacy and trusting entities with sensitive data is of utmost concern, the importance of safely storing, transmitting and using sensitive information gets elevated. What better way is there to handling such a task than keeping the system completely disconnected from any network, and storing all sensitive data encrypted and local, guaranteeing the ownership of the data to the user. Such feats can now be accomplished using modern advancements in cryptography and recent additions to web browser frameworks.
